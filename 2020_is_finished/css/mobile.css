@@ -1,0 +1,48 @@
+/*
+ *Container Styles
+*/
+.container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ *Santa Styles
+*/
+
+.santa {
+    border-radius: 0;
+}
+
+/*
+ *Aside Styles
+*/
+
+aside.curve {
+    line-height: 0;
+}
+
+aside.segal {
+    padding-left: 10px;
+}
+
+aside.steven {
+    padding: 10px;
+}
+
+/*
+ *Section Styles
+*/
+section.contact p.top {
+    padding-top: 1rem;
+    padding-left: rem;
+    position: absolute;
+    left: 9rem;
+}
+
+section.contact p.bottom {
+    position: absolute;
+    left: 10rem;
+    padding-top: 3rem;
+}
