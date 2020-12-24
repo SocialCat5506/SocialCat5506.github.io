@@ -113,6 +113,10 @@ section.contact h2 {
     color: #FDE0B7;
 }
 
+section.contact p.top{
+    padding-top: 2rem;
+}
+
 section.form {
     padding-bottom: 10px;
 }
