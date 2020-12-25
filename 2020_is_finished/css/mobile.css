@@ -43,6 +43,10 @@ aside.steven img{
 /*
  *Section Styles
 */
+section.intro p{
+    padding-top: 1rem;
+}
+
 section.contact p.top {
     padding-top: 1rem;
     padding-left: rem;
