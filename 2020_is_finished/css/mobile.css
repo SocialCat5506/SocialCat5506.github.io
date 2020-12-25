@@ -38,6 +38,8 @@ aside.segal img{
 aside.steven img{
     width:  150px;
 }
+
+
 /*
  *Section Styles
 */
@@ -53,4 +55,8 @@ section.contact p.bottom {
     left: 10rem;
     padding-top: 4rem;
     padding-left: 2rem;
+}
+
+section.form p{
+    padding-top: 1rem;
 }
