@@ -31,6 +31,13 @@ aside.steven {
     padding: 10px;
 }
 
+aside.segal img{
+    width: 150px;
+}
+
+aside.steven img{
+    width:  150px;
+}
 /*
  *Section Styles
 */
@@ -44,5 +51,6 @@ section.contact p.top {
 section.contact p.bottom {
     position: absolute;
     left: 10rem;
-    padding-top: 3rem;
+    padding-top: 4rem;
+    padding-left: 2rem;
 }
